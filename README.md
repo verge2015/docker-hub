@@ -2,7 +2,7 @@
 This is a simple demonstration on how to use Docker with Docker Hub.
 
 # Prerequisites
-Installed docker on your workstation
+Install Docker on your workstation
 
 # Procedures:
 1. Create a simple javascript file that console log "Hello docker!".
@@ -43,7 +43,7 @@ docker pull verge2015/docker-test
 docker run verge2015/docker-test
 ```
 
-#Example
+# Demo
 ![Docker 2](https://user-images.githubusercontent.com/16742524/184500453-726842d5-0b32-4d8d-9d41-6424a19fd4c9.png)
 
 
