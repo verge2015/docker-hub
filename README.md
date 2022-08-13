@@ -6,8 +6,8 @@ Install Docker on your workstation
 
 # Procedures:
 1. Create a simple javascript file that console log "Hello docker!".
-2. Docker file "Dockerfile" 
-```YAML
+2. Create a docker file "Dockerfile".  
+```Dockerfile
 # Set the package and linux distribution
 FROM node:alpine
 #Copy the source code to app folder
