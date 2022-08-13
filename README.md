@@ -1,5 +1,5 @@
 # docker-hub
-This is a simple demonstration on how to use docker with docker hub.
+This is a simple demonstration on how to use Docker with Docker Hub.
 
 # Prerequisites
 Installed docker on your workstation
