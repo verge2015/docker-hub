@@ -24,7 +24,7 @@ docker build -t docker-test
 ```
 
 4. Create account in [Docker Hub](https://hub.docker.com/) and create repository
-5. Push the local docker image to Docker Hub repository
+5. Push the local docker image to your Docker Hub repository
 ```bash
 docker push verge2015/docker-test:tagname
 ```
